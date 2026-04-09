@@ -93,7 +93,8 @@ If you click an earlier date as the second click, the range is automatically nor
 
 ---
 
-## Notes
+## Notes[Screencast from 2026-04-09 10-10-07.webm](https://github.com/user-attachments/assets/93060f22-67cf-4aee-aaed-b9fccc992cc9)
+
 
 Notes are stored per month under the key `wall-calendar-notes` in `localStorage` as a `{ "YYYY-MM": Note[] }` map. Each note optionally carries a `rangeStart` and `rangeEnd` ISO date string if a range was active when the note was created. Notes support inline editing and deletion.
 
