@@ -4,6 +4,8 @@ A polished, production-level interactive wall calendar built with Next.js, TypeS
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwindcss) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-purple?logo=framer)
 
+🔗 **Live Demo:** [https://tuf-orpin.vercel.app/](https://tuf-orpin.vercel.app/)
+
 ---
 
 ## Features
